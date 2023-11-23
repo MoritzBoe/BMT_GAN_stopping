@@ -30,6 +30,11 @@ Run
 preprocess_bbbc039_dataset.py
 ```
 
+Create synthetic label images for the BBBC039v1 dataset by running
+```
+create_synthetic_labels.py
+```
+
 ## Training
 The scrips are created to work with Weigths & Biases. You need to create an account at https://wandb.ai/. For personal usage, this is free. To setup W&B initialize it with:
 ```
