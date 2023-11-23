@@ -1,0 +1,15 @@
+wandb
+MNIST
+lightning_logs
+.vscode
+benchmark_dataset/dataset*
+benchmark_dataset/benchmark_dataset
+*.png
+*.tiff
+*.tiff
+results
+__pycache__
+logs
+paper
+datasets
+*.pdf
